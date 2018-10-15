@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - +1
+  - -1
+  - finish
+  - +5
+  - Winbox
+  - player
   layers:
   - Default
   - TransparentFX
